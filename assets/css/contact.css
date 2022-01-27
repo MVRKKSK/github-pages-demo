@@ -1,0 +1,8 @@
+body{
+    height: 100vh;
+    background: linear-gradient(white, black);
+}
+a{
+    color: green;
+    text-decoration: none;
+}
